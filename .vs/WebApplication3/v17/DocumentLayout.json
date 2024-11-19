@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C31F9E07-2119-498E-9C28-FD85996970D4}|WebApplication3\\PICIIPReportAPI.csproj|c:\\users\\administrator\\source\\repos\\webapplication3\\webapplication3\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C31F9E07-2119-498E-9C28-FD85996970D4}|WebApplication3\\PICIIPReportAPI.csproj|solutionrelative:webapplication3\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C31F9E07-2119-498E-9C28-FD85996970D4}|WebApplication3\\PICIIPReportAPI.csproj|C:\\Users\\Administrator\\source\\repos\\WebApplication3\\webapplication3\\controllers\\pdfreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C31F9E07-2119-498E-9C28-FD85996970D4}|WebApplication3\\PICIIPReportAPI.csproj|solutionrelative:webapplication3\\controllers\\pdfreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C31F9E07-2119-498E-9C28-FD85996970D4}|WebApplication3\\PICIIPReportAPI.csproj|c:\\users\\administrator\\source\\repos\\webapplication3\\webapplication3\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C31F9E07-2119-498E-9C28-FD85996970D4}|WebApplication3\\PICIIPReportAPI.csproj|solutionrelative:webapplication3\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C31F9E07-2119-498E-9C28-FD85996970D4}|WebApplication3\\PICIIPReportAPI.csproj|c:\\users\\administrator\\source\\repos\\webapplication3\\webapplication3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C31F9E07-2119-498E-9C28-FD85996970D4}|WebApplication3\\PICIIPReportAPI.csproj|solutionrelative:webapplication3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplication3\\WebApplication3\\Global.asax.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplication3\\WebApplication3\\Global.asax.cs",
+              "RelativeToolTip": "WebApplication3\\Global.asax.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:33:37.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplication3\\WebApplication3\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplication3\\WebApplication3\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "WebApplication3\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:30:23.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplication3\\WebApplication3\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication3\\Web.config",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplication3\\WebApplication3\\Web.config",
+              "RelativeToolTip": "WebApplication3\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-03T19:27:20.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PdfReportController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\PdfReportController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\PdfReportController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\PdfReportController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\PdfReportController.cs",
+              "ViewState": "AQIAACwEAAAAAAAAAAAEwDgEAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:26:33.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
