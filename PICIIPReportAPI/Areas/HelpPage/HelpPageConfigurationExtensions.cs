@@ -11,10 +11,10 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
-using WebApplication3.Areas.HelpPage.ModelDescriptions;
-using WebApplication3.Areas.HelpPage.Models;
+using PICIIPReportAPI.Areas.HelpPage.ModelDescriptions;
+using PICIIPReportAPI.Areas.HelpPage.Models;
 
-namespace WebApplication3.Areas.HelpPage
+namespace PICIIPReportAPI.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {

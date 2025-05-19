@@ -3,7 +3,7 @@ using System.Text;
 using System.Web;
 using System.Web.Http.Description;
 
-namespace WebApplication3.Areas.HelpPage
+namespace PICIIPReportAPI.Areas.HelpPage
 {
     public static class ApiDescriptionExtensions
     {

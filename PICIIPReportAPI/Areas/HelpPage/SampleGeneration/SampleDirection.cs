@@ -1,4 +1,4 @@
-namespace WebApplication3.Areas.HelpPage
+namespace PICIIPReportAPI.Areas.HelpPage
 {
     /// <summary>
     /// Indicates whether the sample is used for request or response

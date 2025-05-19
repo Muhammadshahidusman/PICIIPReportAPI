@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace WebApplication3
+namespace PICIIPReportAPI
 {
     public class FilterConfig
     {

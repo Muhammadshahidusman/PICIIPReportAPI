@@ -2,9 +2,9 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Net.Http.Headers;
 using System.Web.Http.Description;
-using WebApplication3.Areas.HelpPage.ModelDescriptions;
+using PICIIPReportAPI.Areas.HelpPage.ModelDescriptions;
 
-namespace WebApplication3.Areas.HelpPage.Models
+namespace PICIIPReportAPI.Areas.HelpPage.Models
 {
     /// <summary>
     /// The model that represents an API displayed on the help page.

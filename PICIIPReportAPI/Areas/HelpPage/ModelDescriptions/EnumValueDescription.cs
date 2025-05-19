@@ -1,4 +1,4 @@
-namespace WebApplication3.Areas.HelpPage.ModelDescriptions
+namespace PICIIPReportAPI.Areas.HelpPage.ModelDescriptions
 {
     public class EnumValueDescription
     {

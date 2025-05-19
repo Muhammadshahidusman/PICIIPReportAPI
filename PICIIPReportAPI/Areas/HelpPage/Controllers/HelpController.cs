@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using WebApplication3.Areas.HelpPage.ModelDescriptions;
-using WebApplication3.Areas.HelpPage.Models;
+using PICIIPReportAPI.Areas.HelpPage.ModelDescriptions;
+using PICIIPReportAPI.Areas.HelpPage.Models;
 
-namespace WebApplication3.Areas.HelpPage.Controllers
+namespace PICIIPReportAPI.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

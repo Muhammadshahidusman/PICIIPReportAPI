@@ -1,6 +1,6 @@
 using System;
 
-namespace WebApplication3.Areas.HelpPage.ModelDescriptions
+namespace PICIIPReportAPI.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Describes a type model.

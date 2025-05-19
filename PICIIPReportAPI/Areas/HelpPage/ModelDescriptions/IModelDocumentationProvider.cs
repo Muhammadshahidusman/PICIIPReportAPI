@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace WebApplication3.Areas.HelpPage.ModelDescriptions
+namespace PICIIPReportAPI.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {
